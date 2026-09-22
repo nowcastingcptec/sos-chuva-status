@@ -3,6 +3,6 @@
   "severity": "critical",
   "maintenance_title": "Serviço Temporariamente Indisponível",
   "maintenance_message": "Identificamos uma falha nos servidores de processamento. Nossa equipe está trabalhando para restabelecer o serviço.",
-  "affected_services": ["Radar", "Satélite", "Alertas"],
+  "affected_services": ["Radar", "Satélite", "Relato"],
   "estimated_return": null
 }
